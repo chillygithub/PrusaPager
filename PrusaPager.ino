@@ -18,7 +18,7 @@ char* pskey = "presharedkey";         // WPA2 Preshared key
 
 // Update the IP address in the api_url to match your Mini:
 // Mini should use a static IP address
-char* api_url = "http://172.17.16.10/api/telemetry";
+char* api_url = "http://192.168.0.4/api/telemetry";
 
 
 // Sound preferences for completed print tone:
