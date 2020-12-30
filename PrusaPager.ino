@@ -12,7 +12,7 @@
 // User configurable variables;
 
 // Settings for Wireless network:
-char* ssid = "networkname";              // Wireless network SSID 2.4GHz
+char* ssid = "networkname";           // Wireless network SSID 2.4GHz
 char* pskey = "presharedkey";         // WPA2 Preshared key
 
 
